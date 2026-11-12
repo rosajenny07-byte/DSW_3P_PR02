@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "CI/b5rVwpIM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rosaj\\OneDrive\\Documentos\\DSW\\parcial3\\DSW_EP_PR02\\DSW_EP_PR02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosaj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\rosaj\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\rosaj\\OneDrive\\Documentos\\DSW\\parcial3\\DSW_EP_PR02\\DSW_EP_PR02.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\rosaj\\OneDrive\\Documentos\\DSW\\parcial3\\DSW_EP_PR02\\DSW_EP_PR02.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
