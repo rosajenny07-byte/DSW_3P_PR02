@@ -1,0 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using DSW_3P_PR02.Models;
+
+namespace DSW_3P_PR02.Data
+{
+    public class AppDbContext : DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+
+        public DbSet<Evento> Eventos { get; set; }
+    }
+}
